@@ -1,0 +1,22 @@
+{
+  "name": "crud_api",
+  "version": "0.0.1",
+  "description": "CRUD",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6",
+    "request": "^2.87.0"
+  },
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/rafaelim/nodejs-pos.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Lima",
+  "license": "ISC"
+}
