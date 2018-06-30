@@ -11,12 +11,12 @@
   },
   "respository": {
     "type": "git",
-    "url": "https://github.com/rafaelim/nodejs-pos.git"
+    "url": "https://github.com/tiecoo/nodeapi.git"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rafael Lima",
+  "author": "Diego Pereira",
   "license": "ISC"
 }
